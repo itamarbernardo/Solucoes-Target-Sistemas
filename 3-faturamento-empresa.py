@@ -1,3 +1,4 @@
+#Obs: os valores dos dados em .json e .xml sao diferentes, portanto darao resultados distintos
 import json
 import sys
 
