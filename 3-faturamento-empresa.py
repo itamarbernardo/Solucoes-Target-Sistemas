@@ -40,6 +40,7 @@ for i in range(len(dados_dicionario)):
     if dados_dicionario[i]['valor'] > media_faturamento:
         cont_dias_superior_media += 1
 
+print(soma_faturamento)
 print('Número de dias no mês em que o valor de faturamento diário foi superior à média mensal: ', cont_dias_superior_media)
 
 arquivo.close()
